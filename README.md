@@ -1,4 +1,4 @@
-# Coding Challenges (LeetCode, Hackerrank, etc)
+# Coding Challenges (LeetCode, HackerRank, etc)
 
 Practice with various coding problems using Python
 
